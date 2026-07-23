@@ -1,0 +1,29 @@
+# Compiled output
+build/
+out/
+
+# Gradle
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.eclipse/
+.classpath
+.project
+.settings/
+
+# Run directory
+run/
+run-server/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Minecraft
+logs/
+crash-reports/
