@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="ARR"
+
+[[mods]]
+modId="deatheffects"
+version="1.0.6"
+displayName="Death Effects"
+description="Adds customizable cosmetic death effects like lightning strikes, explosions, fire bursts, and more."
+authors="i-is-evil-duck"
+
+[[dependencies.deatheffects]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
