@@ -31,7 +31,7 @@ Adds customizable cosmetic death effects to Minecraft. When a player dies, a vis
 ## Config
 
 ```toml
-[tacz0ing]
+[deatheffects]
   enableEffects=true
   effectMode=1
   enableLightning=true
@@ -42,6 +42,10 @@ Adds customizable cosmetic death effects to Minecraft. When a player dies, a vis
   enableInCreative=false
   effectRadius=4.0
 ```
+
+## License
+
+All Rights Reserved. Copyright (c) i-is-evil-duck.
 
 ## Links
 

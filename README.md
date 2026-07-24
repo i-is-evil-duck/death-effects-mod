@@ -67,4 +67,4 @@ Server-side config file `deatheffects.toml`:
 
 ## License
 
-MIT. Copyright (c) i-is-evil-duck. All rights reserved.
+All Rights Reserved. Copyright (c) i-is-evil-duck.

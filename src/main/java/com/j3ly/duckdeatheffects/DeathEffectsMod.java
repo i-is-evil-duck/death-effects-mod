@@ -1,6 +1,6 @@
-package com.j3ly.deatheffects;
+package com.j3ly.duckdeatheffects;
 
-import com.j3ly.deatheffects.config.DeathEffectsConfig;
+import com.j3ly.duckdeatheffects.config.DeathEffectsConfig;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;

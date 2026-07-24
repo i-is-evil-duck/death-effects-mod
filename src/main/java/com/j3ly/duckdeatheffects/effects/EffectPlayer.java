@@ -1,4 +1,4 @@
-package com.j3ly.deatheffects.effects;
+package com.j3ly.duckdeatheffects.effects;
 
 import net.minecraft.core.particles.ParticleTypes;
 import net.minecraft.server.level.ServerLevel;

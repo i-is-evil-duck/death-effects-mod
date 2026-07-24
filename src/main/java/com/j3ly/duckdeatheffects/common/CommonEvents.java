@@ -1,9 +1,9 @@
-package com.j3ly.deatheffects.common;
+package com.j3ly.duckdeatheffects.common;
 
-import com.j3ly.deatheffects.DeathEffectsMod;
-import com.j3ly.deatheffects.config.DeathEffectsConfig;
-import com.j3ly.deatheffects.effects.DeathEffectType;
-import com.j3ly.deatheffects.effects.EffectPlayer;
+import com.j3ly.duckdeatheffects.DeathEffectsMod;
+import com.j3ly.duckdeatheffects.config.DeathEffectsConfig;
+import com.j3ly.duckdeatheffects.effects.DeathEffectType;
+import com.j3ly.duckdeatheffects.effects.EffectPlayer;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.phys.Vec3;

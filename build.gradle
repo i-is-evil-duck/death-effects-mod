@@ -4,8 +4,8 @@ plugins {
     id 'idea'
 }
 
-version = '1.0.5'
-group = 'com.j3ly.deatheffects'
+version = '1.0.6'
+group = 'com.j3ly.duckdeatheffects'
 
 base {
     archivesName = 'deatheffects'

@@ -1,11 +1,11 @@
-package com.j3ly.deatheffects.common;
+package com.j3ly.duckdeatheffects.common;
 
 import com.mojang.brigadier.CommandDispatcher;
 import com.mojang.brigadier.exceptions.CommandSyntaxException;
-import com.j3ly.deatheffects.DeathEffectsMod;
-import com.j3ly.deatheffects.config.DeathEffectsConfig;
-import com.j3ly.deatheffects.effects.DeathEffectType;
-import com.j3ly.deatheffects.effects.EffectPlayer;
+import com.j3ly.duckdeatheffects.DeathEffectsMod;
+import com.j3ly.duckdeatheffects.config.DeathEffectsConfig;
+import com.j3ly.duckdeatheffects.effects.DeathEffectType;
+import com.j3ly.duckdeatheffects.effects.EffectPlayer;
 import net.minecraft.commands.CommandSourceStack;
 import net.minecraft.commands.Commands;
 import net.minecraft.network.chat.Component;

@@ -1,4 +1,4 @@
-package com.j3ly.deatheffects.effects;
+package com.j3ly.duckdeatheffects.effects;
 
 public enum DeathEffectType {
     LIGHTNING("Lightning Strike"),
