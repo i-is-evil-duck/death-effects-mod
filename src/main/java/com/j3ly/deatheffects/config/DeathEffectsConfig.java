@@ -14,7 +14,7 @@ public class DeathEffectsConfig {
 
     public static final ForgeConfigSpec.IntValue EFFECT_MODE = BUILDER
         .comment("Effect selection mode: 0=Random, 1=Lightning, 2=Explosion, 3=Fire Burst, 4=Soul Escape, 5=Smoke Cloud")
-        .defineInRange("effectMode", 0, 0, 5);
+        .defineInRange("effectMode", 1, 0, 5);
 
     public static final ForgeConfigSpec.BooleanValue ENABLE_LIGHTNING = BUILDER
         .comment("Enable Lightning Strike effect (used in random mode)")

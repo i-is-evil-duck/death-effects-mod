@@ -4,7 +4,7 @@ license="MIT"
 
 [[mods]]
 modId="deatheffects"
-version="1.0.0"
+version="1.0.5"
 displayName="Death Effects"
 description="Adds customizable cosmetic death effects like lightning strikes, explosions, fire bursts, and more."
 authors="i-is-evil-duck"
